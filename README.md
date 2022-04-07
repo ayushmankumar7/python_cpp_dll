@@ -10,3 +10,9 @@ pip3 install -r requirements.txt
 scons
 python test.py
 ```
+
+## Advantage of using DLL 
+
+  1. You it's small in size
+  2. You can copy and use it anywhere
+  3. It's not dependent on any other file
